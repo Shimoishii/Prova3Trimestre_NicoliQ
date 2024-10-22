@@ -8,6 +8,7 @@ body {
 
 h1 {
     bottom: 2px;
+    justify-content: center;
 }
 .imagem1 {
     text-align: justify;
